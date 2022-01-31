@@ -1,7 +1,7 @@
-# sampleproject
+# Saving App (UI by BWA)
 
 A new Flutter project.
-
+UI Design by BuildWith Angga (https://pixel.buildwithangga.com/)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
